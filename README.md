@@ -1,5 +1,3 @@
-Technical test 
-
 # Associate Android Engineer
 - Build a android application
 - Use api provided by themoviedb.org : https://www.themoviedb.org/documentation/api
@@ -7,6 +5,7 @@ Technical test
 
 What we will look for
 - Clean code
+- Software Architecture
 - Best practices
 - Design guidelines
 - Optimization
