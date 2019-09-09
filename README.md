@@ -1,7 +1,7 @@
-# Associate Android Engineer
-- Build a android application
+#Assignment
+- Build an application(Web/Android)
 - Use api provided by themoviedb.org : https://www.themoviedb.org/documentation/api
-- Use this user interface https://www.uplabs.com/posts/themovie-a-movie-app-concept
+- (If necessary)Use this user interface https://www.uplabs.com/posts/themovie-a-movie-app-concept
 
 What we will look for
 - Clean code
